@@ -2,16 +2,16 @@
 
 <p align="center">
   <a href="https://github.com/gasti-jm">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gasti-jm&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnickname&theme=transparent" />
   </a>
   <a href="https://github.com/gasti-jm">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gasti-jm&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnickname&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/gasti-jm">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gasti-jm&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnickname&theme=transparent" />
   </a>
   <a href="https://github.com/gasti-jm">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasti-jm&hide_progress=false&card_width=699&theme=transparent"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnickname&hide_progress=false&card_width=699&theme=transparent"/>
   </a>
 </p>
 
