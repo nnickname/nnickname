@@ -1,4 +1,5 @@
 ## Hi there 👋 i am Nickname
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nnickname&label=Profile%20views&color=919191&style=flat-square" alt="bldd14" /> </p>
 
 <p align="center">
   <a href="https://github.com/nnickname">
