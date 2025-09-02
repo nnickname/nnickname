@@ -5,7 +5,7 @@
 🛠️ Me enfoco en:
 - Desarrollo **mobile multiplataforma** y nativo (Flutter, Xcode)
 - Aplicaciones web **performantes y modernas** (Next.js, Astro, Vue)
-- Backend robusto y seguro (Nest.js, Node.js, Express)
+- Backend robusto y seguro (Supabase, Nest.js, Node.js, Express)
 - Infraestructura escalable (AWS EC2, RDS, Lambda, Docker)
 - Automatización, testing (Jest, Cypress), integración con Stripe, sockets, IA
 
