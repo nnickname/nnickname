@@ -10,27 +10,6 @@
 
 ---
 
-## 🚀 Sobre mí
-
-Soy un **desarrollador Full-Stack** apasionado por crear soluciones tecnológicas que impacten. Me especializo en:
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/reactjs-icon.svg" alt="React" width="40" height="40" /> 
-  <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/typescript-icon.svg" alt="TypeScript" width="40" height="40" />
-</div>
-
-**Me apasiona:**
-- 🛠️ Arquitectura limpia y mantenible
-- 📱 Experiencias móviles fluidas y nativas
-- ⚡ Performance y optimización
-- 🔒 Seguridad y buenas prácticas
-- 🤖 Integración de IA en productos reales
-
----
 
 ## ✨ Proyectos Destacados
 
@@ -100,7 +79,7 @@ Soy un **desarrollador Full-Stack** apasionado por crear soluciones tecnológica
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40" />
       <br>AWS
     </td>
     <td align="center">
