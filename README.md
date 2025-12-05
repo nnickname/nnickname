@@ -10,7 +10,7 @@ Ingeniero Full-Stack con experiencia en el desarrollo de productos web y móvile
 Plataforma de votación digital con blockchain, validación de identidad (KYC) y trazabilidad completa.
 
 **Tecnologías:** Next.js · Solidity · Supabase · Stripe  
-Repositorio: https://github.com/nnickname/quorum
+Repositorio: [https://github.com/nnickname/quorum](https://github.com/Quorum-Identity)
 
 ---
 
