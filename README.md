@@ -1,6 +1,6 @@
 # Bartolomé Canitrot
 
-Ingeniero Full-Stack con experiencia en el desarrollo de productos web y móviles, integración de servicios, automatización y sistemas basados en datos. Especializado en tecnologías modernas de frontend, backend, infraestructura y aplicaciones impulsadas por inteligencia artificial.
+Ingeniero de Software con experiencia en el desarrollo de productos web y móviles, integración de servicios, automatización y sistemas basados en datos. Especializado en tecnologías modernas de frontend, backend, infraestructura y aplicaciones impulsadas por inteligencia artificial.
 
 ---
 
